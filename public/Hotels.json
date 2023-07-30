@@ -1,0 +1,414 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "The Great Maldives Resort",
+      "neighborhood": "Manhattan",
+      "photograph": "https://i.postimg.cc/YqPBKbmR/waldorf-astoria-maldives-ithaafushi-080-TOPHOTELSWB21-d42e357f00754973bbbfe987835f7319-1.jpg",
+      "address": "171 E Broadway, Maldives, NY 10002",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "Restaurant_type": "Asian",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "Th great maldives resort has grown up from its scrappy Orchard Street days into a big, two story hotel equipped with a multicuisine restaurant. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+        },
+        {
+          "name": "Morgan",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "This place is a blast. incredible!,   so much more I would have liked to try!"
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the service staff."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mountain Stay",
+      "neighborhood": "Brooklyn",
+      "photograph": "https://i.postimg.cc/3NWftQ9T/jade-mountain-078-TOPHOTELSWB21-ed4b63b1c46442809ab6f71247b7b309-1.jpg",
+      "address": "919 Fulton St, Brooklyn, NY 11238",
+      "latlng": {
+        "lat": 40.683555,
+        "lng": -73.966393
+      },
+      "Restaurant_type": "Pizza",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steph",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Five star stay, two star atmosphere. I would definitely get takeout from this place - but dont think I have the energy to deal with the hipster ridiculousness again. By the time we left the wait was two hours long."
+        },
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "This cozy Clinton Hill  excels at both straightforward and unusual wood-fired pizzas. If you want a descent stay, consider the hotel,  The menu includes salads and a handful of starters, as well as a burger that some meat connoisseurs consider to be among the best in the city."
+        },
+        {
+          "name": "Sam",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "5 star atmosphere as it is very cozy with great staff. 5 star food as their Emmy burger is outrageously good. Many others looked like worth competitors, but the Colony really found its way to my heart. "
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dream Palace",
+      "neighborhood": "Manhattan",
+      "photograph": "https://i.postimg.cc/bNxVLg9d/best-hotels-in-the-world-1-1.jpg",
+      "address": "1 E 32nd St, New York, NY 10016",
+      "latlng": {
+        "lat": 40.747143,
+        "lng": -73.985414
+      },
+      "Restaurant_type": "Asian",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "The tables at this 32nd Street favorite are outfitted with grills for cooking short ribs, brisket, beef tongue, rib eye, and pork jowl. The banchan plates are uniformly good, and Deuki Hong’s menu also includes winning dishes like stir-fried squid noodles, kimchi stew, and seafood pancakes. If it’s available, make sure to order the kimchi and rice “lunchbox.” Baekjeong is a great place for large groups and birthday parties."
+        },
+        {
+          "name": "ZS",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "I've been to Korea before and many other Korean  places. One regular room was just prefect for the two of us. We could have done one meat and one soup. The portions of the meat are great! The beef was juicy, tender and so good. The sides were excellent. "
+        },
+        {
+          "name": "Emily",
+          "date": "October 26, 2016",
+          "rating": 2.5,
+          "comments": "MEH. I've tried their Jersey location as well but  quality of service is severely decreasing!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jungle Plaza",
+      "neighborhood": "Manhattan",
+      "photograph": "https://i.postimg.cc/mkRCrYz6/BESTHOTELS-22-Riverside-Jungle-Pool-Bale1-1.jpg",
+      "address": "205 E Houston St, New York, NY 10002",
+      "latlng": {
+        "lat": 40.722216,
+        "lng": -73.987501
+      },
+      "Restaurant_type": "American",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "In 127 years, little has changed at Katz's. It remains one of New York's — and the country's — essential Jewish delicatessens. Every inch of the massive Lower East Side space smells intensely of pastrami and rye loaves."
+        },
+        {
+          "name": "Allen",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "The best hotel I have ever had i my life, The heart attack comes free of charge! Came by while I was visiting NYC. First pit-stop when I come back :)!"
+        },
+        {
+          "name": "David",
+          "date": "October 26, 2016",
+          "rating": 2.5,
+          "comments": "Ok so four of us came. One more later, it's so expensive and simple. But seriously 2000 bucks gone for an non-ac room. And a line that is long, especially if you want seating. I'm down to just take a quick look where Sally and Harry sat and leave to the other delis all around NYC. Oh and they accept Samsung pay."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Robert's Graden",
+      "neighborhood": "Brooklyn",
+      "photograph": "https://i.postimg.cc/BZLn8Lcm/mahali-mzuri-5-1.jpg",
+      "address": "261 Moore St, Brooklyn, NY 11206",
+      "latlng": {
+        "lat": 40.705089,
+        "lng": -73.933585
+      },
+      "Restaurant_type": "Pizza",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Roberta's is the epicenter of the modern Brooklyn hotel scene.The rooms are fantastic, but the restaurant really flexes its muscles with the vegetable dishes."
+        },
+        {
+          "name": "Raymond",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Roberta's, one of the better hotel stay I have had in my life. Very trendy and hipsterish spot. Came here for lunch on a random weekday afternoon and when we arrived, there was a line forming already. The space is a bit cramped. You'll get to know your neighbors soon enough. It's a ncie plus that you get to see them firing up the pizzas in the corner. The major issue with Roberta's is the trek out to the Williamsburg/Bushwick."
+        },
+        {
+          "name": "Laurel",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "The Rooms are fantastic, not THE best I've ever had, but would definitely go back since it has great food and great ambiance. Definitely worth going to. It has A LOT of hype in the New York hotel scene, and I question if it deserves all of it, but it's still a totally great spot to hit up when in the area!!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hotel Hometown",
+      "neighborhood": "Brooklyn",
+      "photograph": "https://i.postimg.cc/DzHRRZJz/bushcamp-company-mfuwe-lodge-068-TOPHOTELSWB21-a6797147fcd94b7dbca64627a8a4a44e-1.jpg",
+      "address": "454 Van Brunt St, Brooklyn, NY 11231",
+      "latlng": {
+        "lat": 40.674925,
+        "lng": -74.016162
+      },
+      "Restaurant_type": "American",
+      "operating_hours": {
+        "Monday": "Closed",
+        "Tuesday": "12:00 pm - 10:00 pm",
+        "Wednesday": "12:00 pm - 10:00 pm",
+        "Thursday": "12:00 pm - 10:00 pm",
+        "Friday": "12:00 pm - 11:00 pm",
+        "Saturday": "12:00 pm - 11:00 pm",
+        "Sunday": "12:00 pm - 9:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "The space is sprawling in a way that feels like the real deal, and Durney himself can usually be found working the room. It's counter service only,, it's easily worth the trip to Red Hook."
+        },
+        {
+          "name": "Michelle",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "Overall, a great try . The restaurant décor is rustic with a good amount of seats to sit and enjoy the meal. I definitely would love to come back"
+        },
+        {
+          "name": "Ai-Mei",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "mmmmmm, what a gem this is in bklyn! I loveeee how fantastic the stay here. Super wallet friendly for the amount they give you. I highly recommend this spot- after staying here, you can definitely walk over for Steve's key lime pies."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Superiority Palace",
+      "neighborhood": "Manhattan",
+      "photograph": "https://i.postimg.cc/wvF4gj3J/The-Muraka-Undersea-Bedroom-scaled-1.jpg",
+      "address": "430 E 9th St, New York, NY 10009",
+      "latlng": {
+        "lat": 40.727397,
+        "lng": -73.983645
+      },
+      "Restaurant_type": "American",
+      "operating_hours": {
+        "Monday": "11:30 am - 10:00 pm",
+        "Tuesday": "Closed",
+        "Wednesday": "11:30 am - 10:00 pm",
+        "Thursday": "11:30 am - 10:00 pm",
+        "Friday": "11:30 am - 10:00 pm",
+        "Saturday": "11:30 am - 10:00 pm",
+        "Sunday": "11:30 am - 10:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "Brooks Headley’s tiny East Village hotel is so much more than any of the luxuxrious hotel in the city — it's one of the best bang-for-your-buck restaurants in Lower Manhattan. The specials offers changes daily, and the rest of the offer is constantly evolving. You can get a lot of food to eat here for under $15 per person."
+        },
+        {
+          "name": "Gabriel",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "I was turned on to this place following the glowing NYT review. Its near my area of the city so I figured why not go? Man they weren't kidding, Superiority is the experience I've ever had!"
+        },
+        {
+          "name": "Shivi",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "Great flavors and very satisfying. Craving a sandwich, I stopped by on a Friday night with a vegetarian friend. Super small location with just a few seats inside. Ambiance is a bit industrial, good. Staff was super nice and accommodating but not out of the way friendly."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "The Dutch",
+      "neighborhood": "Manhattan",
+      "photograph": "https://i.postimg.cc/Hs8zP20b/oorr-watervilla-bedroom-2-1170x731-1-1.jpg",
+      "address": "131 Sullivan St, New York, NY 10012",
+      "latlng": {
+        "lat": 40.726584,
+        "lng": -74.002082
+      },
+      "Restaurant_type": "American",
+      "operating_hours": {
+        "Monday": "12 Am - 12:00 Am",
+        "Tuesday": "12 Am - 12:00 Am",
+        "Wednesday": "12 Am - 12:00 Am",
+        "Thursday": "12 Am - 12:00 Am",
+        "Friday": "12 Am - 12:00 Am",
+        "Saturday": "12 Am - 12:00 Am",
+        "Sunday": "12 Am - 12:00 Am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Over the last five years, The Dutch has turned into the quintessential American Hotel that chef Andrew Carmellini and partners Josh Pickard and Luke Ostrom sought to evoke when it first opened. It’s a great choice when you’re craving for a graet stay. The Dutch is now an indelible part of the Soho landscape."
+        },
+        {
+          "name": "Loren",
+          "date": "October 26, 2016",
+          "rating": 3.5,
+          "comments": "I randomly came here on a Saturday night. I was pleasantly surprised with the stay and the service. We had the calamari and the ceviche with avocado, and then the catfish.  It was all delicious and well put together. Would love to stay here again."
+        },
+        {
+          "name": "Lori",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Aside from the slightly claustrophobic dining area and the fact that you may have difficulty hearing your dining companion, I'd return to The Dutch without hesitation. The food is surprisingly well-executed and conceived, and our dinner service flowed smoothly without a hitch. Just make sure to get a reservation in advance, as I'm sure more than just a few other people will have the same idea."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Caza Blanca",
+      "neighborhood": "Queens",
+      "photograph": "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
+      "address": "1209 Jackson Ave, Queens, NY 11101",
+      "latlng": {
+        "lat": 40.743797,
+        "lng": -73.950652
+      },
+      "Restaurant_type": "Asian",
+      "operating_hours": {
+        "Monday": "5:00 pm - 10:00 pm",
+        "Tuesday": "5:00 pm - 10:00 pm",
+        "Wednesday": "5:00 pm - 10:00 pm",
+        "Thursday": "5:00 pm - 10:00 pm",
+        "Friday": "5:00 pm - 11:00 pm",
+        "Saturday": "5:00 pm - 11:00 pm",
+        "Sunday": "5:00 pm - 10:00 pm"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "Joshua Smookler’s two-year-old hotel serves one of the best hotel stay around. Beyond ramen, Mu also offers some high minded plates, like foie gras-stuffed chicken wings, as well as dry-aged Japanese Wagyu beef specials. Mu is just 10 short minutes away from Midtown via the 7-train."
+        },
+        {
+          "name": "Brittany",
+          "date": "October 26, 2016",
+          "rating": 4.5,
+          "comments": "Overall, I would definitely recommend this place if you enjoy a lonely private stay away from your stresses.  If you don't there are still other options but I can't vouch for those."
+        },
+        {
+          "name": "Sally",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "One of the worthiest and most unique ramen places I've been to in NYC, but also the priciest. I think overall its worth the try. Not an everyday casual ramen shop though."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Casa Enrique",
+      "neighborhood": "Queens",
+      "photograph": "https://i.postimg.cc/8Pdf9j5P/setai-kh-penthouseb-pool-1566480093-1.jpg",
+      "address": "5-48 49th Ave, Queens, NY 11101",
+      "latlng": {
+        "lat": 40.743394,
+        "lng": -73.954235
+      },
+      "Restaurant_type": "Mexican",
+      "operating_hours": {
+        "Monday": "5:00 pm - 12:00 am",
+        "Tuesday": "5:00 pm - 12:00 am",
+        "Wednesday": "5:00 pm - 12:00 am",
+        "Thursday": "5:00 pm - 12:00 am",
+        "Friday": "5:00 pm - 12:00 am",
+        "Saturday": "11:00 am - 12:00 am",
+        "Sunday": "11:00 am - 12:00 am"
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "Head to this laid-back Long Island City hotel for Night Stay with a pool. New York's only Michelin-starred Mexican restaurant associated with the hotel is an especially cool choice for lunch during the week or drinks after work. Vlogger critic Ryan Sutton awarded this hotel two stars."
+        },
+        {
+          "name": "Rob",
+          "date": "October 26, 2016",
+          "rating": 5,
+          "comments": "The hype was real. Please go. Get the ceviche. And the tres leches. You're welcome"
+        },
+        {
+          "name": "Jason",
+          "date": "October 26, 2016",
+          "rating": 4,
+          "comments": "For a Michelin star Hotel, it's fairly priced and the food is fairly good. The Restaurant Attached with the hotel i sthe main attraction, Had the chicken enchiladas with salsa verde and it was really good. Great balance in flavor and a good portion. Extra tasty with their hot sauces.  The highlight of the night was the tres house stay. Probably the best I've ever had to be honest. Overall, one of my top 3 favorite Mexican in NY."
+        }
+      ]
+    }
+  ]
+}
